@@ -1,0 +1,12 @@
+{
+    "Server":{
+        "Host": "localhost",
+        "Port": 1300,
+        "Size":1024,
+        "Allow_HTTP_Get(UNIMPLEMENTED)": false
+    },
+    "Encryption":{
+        "Size": 512
+    },
+    "InfoString":"Commands:\n  Run <script> <function> [args]\n  Get <File>\n  Info\n SqliteRun <request>"
+}
